@@ -1,4 +1,4 @@
-# Portfolio-Website-Edu-Tech_Internship
+# Portfolio-Website-EduIntern-Tech
 
 This repository contains the source code for my personal portfolio website.
 
